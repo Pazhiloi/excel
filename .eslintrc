@@ -19,7 +19,8 @@
     "space-before-blocks": "off",
     "no-unused-vars": "off",
     "no-multi-spaces": "off",
-    "operator-linebreak": "off"
+    "operator-linebreak": "off",
+    "guard-for-in": "off"
   },
 
   "extends": ["eslint:recommended","google"]
